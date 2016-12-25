@@ -1,6 +1,6 @@
 {
-  "name": "One UI",
-  "description": "One UI",
+  "name": "OneUI",
+  "description": "OneUI",
   "license": "MIT",
   "main": "index.js",
   "private": false,
